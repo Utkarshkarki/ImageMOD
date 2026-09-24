@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>✏️ Generative Fill</strong><br/>
+      <strong>Generative Fill</strong><br/>
       <img src="assets/screenshots/05_gen_fill.png" alt="Generative Fill" width="100%"/>
     </td>
     <td align="center" width="50%">
