@@ -4,7 +4,7 @@
 
 <br/>
 
-# ✦ AdSnap Studio
+# ✦ AdSnapStudio
 
 ### AIPowered Products Photography & Image Generation
 
